@@ -22,10 +22,10 @@
       <Width>100</Width>
       <Height>100</Height>
       <ID>a88ad116-5da7-472f-8de9-4c288df1b171</ID>
-      <zIndex>1</zIndex>
+      <zIndex>6</zIndex>
       <IsGroup>false</IsGroup>
       <IsEnabled>true</IsEnabled>
-      <Description></Description>
+      <Description>собираем строку с ошибкой</Description>
       <IsPSVerified>true</IsPSVerified>
       <ParentID>00000000-0000-0000-0000-000000000000</ParentID>
       <StorageSelectors></StorageSelectors>
@@ -37,7 +37,7 @@
       <Width>70</Width>
       <Height>70</Height>
       <ID>1167fb1a-ed14-46c1-9fe4-27379e8d2271</ID>
-      <zIndex>4</zIndex>
+      <zIndex>2</zIndex>
       <IsGroup>false</IsGroup>
       <IsEnabled>true</IsEnabled>
       <Description></Description>
@@ -52,7 +52,7 @@
       <Width>100</Width>
       <Height>100</Height>
       <ID>bc9ea2ff-0b8e-43d3-bcfb-82a1c6cc1a2f</ID>
-      <zIndex>6</zIndex>
+      <zIndex>4</zIndex>
       <IsGroup>false</IsGroup>
       <IsEnabled>true</IsEnabled>
       <Description></Description>
@@ -70,7 +70,7 @@
       <SinkConnectorName>Input</SinkConnectorName>
       <SourceArrowSymbol>None</SourceArrowSymbol>
       <SinkArrowSymbol>Arrow</SinkArrowSymbol>
-      <zIndex>3</zIndex>
+      <zIndex>5</zIndex>
     </Connection>
     <Connection>
       <SourceID>55234b85-c52b-49a5-bc13-671ee232433b</SourceID>
@@ -79,7 +79,7 @@
       <SinkConnectorName>Input</SinkConnectorName>
       <SourceArrowSymbol>None</SourceArrowSymbol>
       <SinkArrowSymbol>Arrow</SinkArrowSymbol>
-      <zIndex>2</zIndex>
+      <zIndex>1</zIndex>
     </Connection>
     <Connection>
       <SourceID>bc9ea2ff-0b8e-43d3-bcfb-82a1c6cc1a2f</SourceID>
@@ -88,7 +88,7 @@
       <SinkConnectorName>Input</SinkConnectorName>
       <SourceArrowSymbol>None</SourceArrowSymbol>
       <SinkArrowSymbol>Arrow</SinkArrowSymbol>
-      <zIndex>5</zIndex>
+      <zIndex>3</zIndex>
     </Connection>
   </Connections>
   <Properties />
