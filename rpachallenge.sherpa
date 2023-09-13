@@ -1,7 +1,7 @@
 {
   "Version": "1.00",
   "IsDarkTheme": false,
-  "ProductVersion": "1.29",
+  "ProductVersion": "1.30",
   "References": {
     "Items": [
       "Microsoft.CSharp",
